@@ -1,0 +1,12 @@
+{
+  "writing_sets": 5,
+  "writing_part1_pairs": 25,
+  "writing_part2_prompts": 5,
+  "writing_part2_answers": 5,
+  "writing_part3_pairs": 15,
+  "writing_part4_situations": 5,
+  "writing_part4_prompts": 10,
+  "writing_part4_emails": 10,
+  "extra_writing_pairs": 7,
+  "errors": []
+}
